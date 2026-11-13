@@ -1,0 +1,40 @@
+# 内容：ziboh 自定义漏网域名（保持走代理）
+# 数量：37条
+# 维护：ziboh/ACL4SSR
+DOMAIN-SUFFIX,adtidy.org
+DOMAIN-SUFFIX,ghostery.com
+DOMAIN-SUFFIX,thunderbird.net
+DOMAIN-SUFFIX,services.mozilla.com
+DOMAIN-SUFFIX,cdn.mozilla.net
+DOMAIN-SUFFIX,mozilla-ohttp.fastly-edge.com
+DOMAIN-SUFFIX,prod.ohttp-gateway.prod.webservices.mozgcp.net
+DOMAIN-SUFFIX,newapi.sharezhou.eu.org
+DOMAIN-SUFFIX,xianyu.sharezhou.eu.org
+DOMAIN-SUFFIX,registry.npmjs.org
+DOMAIN-SUFFIX,rausu.infini-cloud.net
+DOMAIN-SUFFIX,relayrouter.app
+DOMAIN-SUFFIX,dddai.dev
+DOMAIN-SUFFIX,opencode.ai
+DOMAIN-SUFFIX,qulink.cyou
+DOMAIN-SUFFIX,pqh.ai
+DOMAIN-SUFFIX,widget.salesmartly.com
+DOMAIN-SUFFIX,api.exteragram.app
+DOMAIN-SUFFIX,pi.dev
+DOMAIN-SUFFIX,zero.cat
+DOMAIN-SUFFIX,lvlv.lol
+DOMAIN-SUFFIX,scriptcat.org
+DOMAIN-SUFFIX,darkreader.org
+DOMAIN-SUFFIX,update.ayugram.one
+DOMAIN-SUFFIX,sevenai.moe
+DOMAIN-SUFFIX,yaoxing.best
+DOMAIN-SUFFIX,m.stripe.network
+DOMAIN-SUFFIX,ot.shuqiandiqiu.com
+DOMAIN-SUFFIX,anoma.ly
+DOMAIN-SUFFIX,me-cam-pixel-tracker-prod.azure-api.net
+DOMAIN-SUFFIX,ghfast.top
+DOMAIN-SUFFIX,api.mason-registry.dev
+DOMAIN-SUFFIX,chuanapi.com
+DOMAIN-SUFFIX,tampermonkey.net
+DOMAIN-SUFFIX,api.staticj.top
+DOMAIN-SUFFIX,a.nel.cloudflare.com
+DOMAIN-SUFFIX,downloads.onelighter.site
